@@ -10,6 +10,37 @@ My name is Saeed, fascinated by Technology.
 - ✨ Appreciate creativity and design 
 
 
+### Find me via...
+
+<p align="left">    
+  <a href="https://www.linkedin.com/in/Saeed-All-Gharaee">
+        <img align="left" 
+             alt="linkedin" 
+             title="LinkedIn"
+             width="4%" 
+             src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-1024.png">
+    </a>
+    
+  <a href="https://twitter.com/saeed_all_gray/">
+      <img align="left" 
+           alt="twitter" 
+           title="Twitter"
+           width="4%" 
+           src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-1024.png">
+    </a>
+   
+  
+   <a href="https://medium.com/@TheUnitedTwins/">
+      <img align="left" 
+           alt="twitter" 
+           title="Twitter"
+           width="4%" 
+           src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png">
+    </a>
+    
+</p>
+
+
 <p align="center">
 <!-- Taken from https://github.com/anuraghazra/github-readme-stats -->
     <a href="#">
