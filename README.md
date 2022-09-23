@@ -8,6 +8,7 @@ My name is Saeed, fascinated by Technology.
 - 🔥 Interested in Software Engineeing
 - ❤️ Fellen in love with  
 - ✨ Appreciate creativity and design 
+- 🟦 Blue is my favorite.
 
 ---
 
@@ -19,7 +20,7 @@ My name is Saeed, fascinated by Technology.
              alt="Mail" 
              title="Mail"
              width="4%" 
-             src="https://cdn3.iconfinder.com/data/icons/okku-delivery/32/Delivery_Okku_Expand-19-256.png">
+             src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png">
     </a>
   
   <a href="https://www.linkedin.com/in/Saeed-All-Gharaee">
