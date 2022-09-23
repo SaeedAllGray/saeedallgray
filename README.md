@@ -1,13 +1,9 @@
 ### Code Morning ☕️
 
-
-**SaeedAllGray/saeedallgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🪪 My name is Saeed All Gharaee 
+**I am
+- 📱 an Android & iOS Developer
 - 🎓 Graduated Computer Engineering student
 - 🔥 Interested in Software Engineeing
-- 📱 Android & iOS Developer
 - ❤️ Fellen in love with  
 - Appreciate creativity and design
 
