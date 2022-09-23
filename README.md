@@ -8,7 +8,7 @@ My name is Saeed, fascinated by Technology.
 - 🔥 Interested in Software Engineeing
 - ❤️ Fellen in love with  
 - ✨ Appreciate creativity and design 
-- 🟦 Blue is my favorite.
+- 🔵 Blue is my favorite.
 
 ---
 
