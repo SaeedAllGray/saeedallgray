@@ -9,8 +9,9 @@ My name is Saeed, fascinated by Technology.
 - ❤️ Fellen in love with  
 - ✨ Appreciate creativity and design 
 
+---
 
-### Find me via...
+### Find me on
 
 <p align="left">    
   <a href="https://www.linkedin.com/in/Saeed-All-Gharaee">
@@ -51,6 +52,7 @@ My name is Saeed, fascinated by Technology.
 
 </br>
 </br>
+
 ---
 
 <p align="center">
