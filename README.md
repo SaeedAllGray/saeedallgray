@@ -9,7 +9,6 @@ My name is Saeed, fascinated by Technology.
 - ❤️ Fellen in love with  
 - ✨ Appreciate creativity and design 
 
-Feel free to clone my open source projects.... vision
 
 <p align="center">
 <!-- Taken from https://github.com/anuraghazra/github-readme-stats -->
