@@ -14,6 +14,14 @@ My name is Saeed, fascinated by Technology.
 ### Find me on
 
 <p align="left">    
+   <a href="mailto:saeedallgray@gmail.com">
+        <img align="left" 
+             alt="Mail" 
+             title="Mail"
+             width="4%" 
+             src="https://cdn3.iconfinder.com/data/icons/okku-delivery/32/Delivery_Okku_Expand-19-256.png">
+    </a>
+  
   <a href="https://www.linkedin.com/in/Saeed-All-Gharaee">
         <img align="left" 
              alt="linkedin" 
