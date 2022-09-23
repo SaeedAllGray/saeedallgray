@@ -40,10 +40,10 @@ My name is Saeed, fascinated by Technology.
   
   <a href="https://medium.com/@TheUnitedTwins/](https://create.arduino.cc/projecthub/saeed_all_gray">
       <img align="left" 
-           alt="twitter" 
+           alt="Arduino" 
            title="Arduino"
            width="4%" 
-           src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png](https://cdn4.iconfinder.com/data/icons/big-data-free/32/Data-08-256.png">
+           src="https://cdn4.iconfinder.com/data/icons/big-data-free/32/Data-08-256.png">
     </a>
   
     
