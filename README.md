@@ -38,7 +38,7 @@ My name is Saeed, fascinated by Technology.
            src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png">
     </a>
   
-  <a href="https://medium.com/@TheUnitedTwins/](https://create.arduino.cc/projecthub/saeed_all_gray">
+  <a href="https://create.arduino.cc/projecthub/saeed_all_gray">
       <img align="left" 
            alt="Arduino" 
            title="Arduino"
