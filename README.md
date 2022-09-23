@@ -24,7 +24,7 @@ Feel free to clone my open source projects.... vision
     <a href="#">
         <img
             width="40%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedallgray&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedallgray&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Frameworks"
         />
         </a>
 </p>
