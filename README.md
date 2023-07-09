@@ -3,7 +3,7 @@ My name is Saeed, fascinated by Technology.
 
 
 
-- 📱 an Android & iOS Developer
+- 📱 An Android & iOS Developer (Swift & Flutter)
 - 🎓 Graduated Computer Engineering student
 - 🔥 Interested in Software Engineeing
 - ❤️ Fellen in love with  
